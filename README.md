@@ -34,8 +34,8 @@ VMeet provides a good video quality and latency.
 - Clone this repo
 
 ```
-git clone https://github.com/amitsgh/https---github.com-amitycodingclub-VMeet.git
-cd https---github.com-amitycodingclub-VMeet-master
+git clone https://github.com/amitycodingclub/VMeet.git
+cd VMeet-main
 ```
 
 #### Install dependencies
