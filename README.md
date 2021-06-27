@@ -1,6 +1,6 @@
 # VMeet
 
-![Author](https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat)
+![Author](https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat)(https://github.com/amitsgh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 A video conferencing platform powered by **Jitsi** api infrastructure.
