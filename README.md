@@ -62,3 +62,8 @@ npm start
 
 Feel Free to contribute! <br>
 especially the **front-end** ✌
+
++ Fork the repo.
++ Create a new branch named `<your_feature>`
++ Commit changes and make a PR.
++ PRs are welcome.
