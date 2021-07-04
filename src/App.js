@@ -14,7 +14,7 @@ import Room from "./Room";
 //import "./App.css"
 function Copyright() {
   return (
-    <Typography variant="body2" color="textSecondary" align="center">
+    < Typography variant="body2" color="textSecondary" align="center" >
       {'Copyright © '}
       <Link color="inherit" href="https://github.com/amitsgh">
         Amit Singh
@@ -32,14 +32,17 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: 'column',
     alignItems: 'center',
   },
+
   avatar: {
     margin: theme.spacing(1),
     backgroundColor: theme.palette.secondary.main,
   },
+
   form: {
     width: '100%', // Fix IE 11 issue.
     marginTop: theme.spacing(1),
   },
+
   submit: {
     margin: theme.spacing(3, 0, 2),
   },
