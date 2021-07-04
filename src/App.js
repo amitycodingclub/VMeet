@@ -9,7 +9,7 @@ import LockOutlinedIcon from '@material-ui/icons/LockOutlined'
 import Typography from '@material-ui/core/Typography'
 import { makeStyles } from '@material-ui/core/styles'
 import Container from '@material-ui/core/Container'
-import Axios from 'axios'
+// import Axios from 'axios'
 import Room from './Room'
 // import "./App.css"
 function Copyright () {
@@ -52,13 +52,13 @@ export default function App () {
   const classes = useStyles()
   const [logged, setLogged] = React.useState(false)
   const [roomName, setRoomName] = React.useState('')
-  const [meeting_password, setMeetingPassword] = React.useState('')
+  const [meetingPassword, setMeetingPassword] = React.useState('')
   const authenticate = (e) => {
     e.preventDefault()
     setLogged(true)
   }
   if (logged) {
-    return <Room meeting_password={meeting_password} roomName={roomName} />
+    return <Room meetingPassword={meetingPassword} roomName={roomName} />
   }
   return (
     <Container component='main' maxWidth='xs'>

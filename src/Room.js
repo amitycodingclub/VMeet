@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Jitsi from 'react-jitsi'
 
 export default function App (props) {
@@ -7,7 +7,7 @@ export default function App (props) {
   return (
     <>
       <Jitsi
-        password={props.meeting_password}
+        password={props.meetingPassword}
         frameStyle={{ display: 'block', width: '100%', height: '100%' }}
         containerStyle={{ width: '1200px', height: '800px' }}
         domain='meet.jit.si'

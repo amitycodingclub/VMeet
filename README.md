@@ -16,15 +16,15 @@ VMeet provides a good video quality and latency.
 <img align="right" width="500" height="auto" src="public/images/video.gif">
 
 
--  Virtual Background
--  Chat
--  Text chat
--  Raise Hand
--  Live Recording 
--  Live Streaming
--  No download required, entirely browser based
--  Direct peer to peer connection ensures lowest latency
--  and many more
+- Virtual Background
+- Chat
+- Text chat
+- Raise Hand
+- Live Recording
+- Live Streaming
+- No download required, entirely browser based
+- Direct peer to peer connection ensures lowest latency
+- and many more
 
 <br>
 <br>
